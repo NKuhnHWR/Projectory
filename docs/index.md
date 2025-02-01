@@ -10,7 +10,8 @@ nav_order: 0
 
 # Projectory
 
-[Project description]
+Showcase your projects, unlock new opportunities.
+Projectory helps students to find their fist jobs by showing their projects to potential employers. 
 
 ## Team members
 
@@ -19,16 +20,15 @@ nav_order: 0
 About
 : Some info about Jane
 
-Matr.-Nr.
-: 1234567
+Matr.-Nr.: 1234567
 
 ### Neele-Sofie Kuhn
 
 About
-: Some info about Joe
+: I'm in the 8th semester in the Bachelors program in information systems at the HWR Berlin. 
 
 Matr.-Nr.
-: 1234567
+: 77211825446
 
 ## Eidesstattliche Erklärung
 
